@@ -1,4 +1,0 @@
-// main.z
-main() {
-    print.h("Hello world")
-}
