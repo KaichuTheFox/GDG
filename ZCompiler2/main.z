@@ -1,0 +1,11 @@
+main() {
+	box sc = 90
+
+	if (sc <= 80) {
+		print(A)
+	else if (sc <= 70) {
+		print(B)
+	else {
+		print(C)
+
+}
