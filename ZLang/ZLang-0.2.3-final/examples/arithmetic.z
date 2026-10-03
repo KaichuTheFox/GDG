@@ -1,5 +1,0 @@
-main() {
-    box a = 10
-    box b = 20
-    print("Result: ", a + b, "\n")
-}
